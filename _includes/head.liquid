@@ -2,16 +2,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
-        Simpletonne 
         {% if pageTitle %}
-            | {{pageTitle}} 
+            {{pageTitle}} |
         {% endif %}
+        Conatum 
     </title>
     {% capture css %}
         {% include styles.css %}
     {% endcapture %}
-<!-- feed it through our cssmin filter to minify -->
-<style>
-  {{ css | cssmin | safe }}
-</style>
+    <!-- feed it through our cssmin filter to minify -->
+    <style>
+    {{ css | cssmin | safe }}
+    </style>
 </head>

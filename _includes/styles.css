@@ -13,16 +13,20 @@ h1 {
 
 pre {
   border-top: 1px solid lightslategrey;
-  padding-top: 1em;
+  padding: 1em;
   border-bottom: 1px solid lightslategrey;
-  padding-bottom: 1em;
   overflow: scroll;
+  background: #eee;
 }
 
 body {
   width: 30em;
   margin: auto;
   padding: 1em;
+}
+
+p {
+  text-align: justify;
 }
 
 .logo {
