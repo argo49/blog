@@ -19,6 +19,11 @@ pre {
   background: #eee;
 }
 
+code {
+  background: #eee;
+  padding: 0.25em;
+}
+
 body {
   width: 30em;
   margin: auto;
