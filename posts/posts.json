@@ -1,4 +1,3 @@
 {
-  "layout": "postPage.liquid",
-  "tags": ["posts"]
+  "layout": "postPage.liquid"
 }
