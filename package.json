@@ -1,11 +1,10 @@
 {
   "name": "Conatum",
   "version": "1.0.0",
-  "description": "",
+  "description": "A blog.",
   "main": "index.js",
   "scripts": {
-    "deploy": "npm install && eleventy build",
-    "build": "eleventy build",
+    "build": "eleventy",
     "serve": "eleventy --serve"
   },
   "author": "Tyler Argo",
@@ -14,6 +13,6 @@
     "clean-css": "^4.2.3"
   },
   "devDependencies": {
-    "eleventy": "^1.0.6"
+    "@11ty/eleventy": "^0.10.0"
   }
 }
