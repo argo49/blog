@@ -11,7 +11,9 @@
   "author": "Tyler Argo",
   "license": "ISC",
   "dependencies": {
-    "clean-css": "^4.2.3",
+    "clean-css": "^4.2.3"
+  },
+  "devDependencies": {
     "eleventy": "^1.0.6"
   }
 }
