@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "npm install && eleventy build",
     "build": "eleventy build",
     "serve": "eleventy --serve"
   },
