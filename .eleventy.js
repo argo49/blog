@@ -1,5 +1,6 @@
 const CleanCSS = require("clean-css");
 const pluginPWA = require("eleventy-plugin-pwa");
+const fs = require("fs");
 
 module.exports = function (config) {
   config.addCollection("posts", (collection) => {
@@ -16,6 +17,22 @@ module.exports = function (config) {
   });
 
   config.addPlugin(pluginPWA);
+
+  config.setBrowserSyncConfig({
+    callbacks: {
+      ready: function (err, bs) {
+        bs.addMiddleware("*", (req, res) => {
+          const content_404 = fs.readFileSync("_site/404/index.html");
+          // Provides the 404 content without redirect.
+          res.write(content_404);
+          // Add 404 http status code in request header.
+          // res.writeHead(404, { "Content-Type": "text/html" });
+          res.writeHead(404);
+          res.end();
+        });
+      },
+    },
+  });
 
   config.addPassthroughCopy("favicon.ico");
   config.addPassthroughCopy("manifest.json");
