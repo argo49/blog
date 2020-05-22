@@ -1,5 +1,6 @@
 ---
 pageTitle: Lorem Ipsum
+pageDescription: This is a Lorem Ipsum page where I can test all of the element styles used on the conatum blog.
 date: "2020-02-29"
 lastUpdated: "2020-05-22"
 ---

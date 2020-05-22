@@ -23,6 +23,9 @@
         {% endif %}
         Conatum 
     </title>
+    {% if pageDescription %}
+        <meta name="description" content={{pageDescription}}>
+    {% endif %}
     {% capture css %}
         {% include styles.css %}
     {% endcapture %}
