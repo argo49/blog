@@ -17,3 +17,7 @@ h1.logo {
   color: inherit;
   text-decoration: none;
 }
+
+.link-spacer {
+  margin: 0 1em;
+}
