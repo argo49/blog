@@ -1,35 +1,19 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" async>
-    <style>
-        .markdown-body {
-            box-sizing: border-box;
-            min-width: 200px;
-            max-width: 980px;
-            margin: 0 auto;
-            padding: 45px;
-        }
-
-        @media (max-width: 767px) {
-            .markdown-body {
-                padding: 15px;
-            }
-        }
-    </style>
+    {% if pageDescription %}
+        <meta name="description" content="{{pageDescription}}">
+    {% endif %}
     <title>
         {% if pageTitle %}
             {{pageTitle}} |
         {% endif %}
         Conatum 
     </title>
-    {% if pageDescription %}
-        <meta name="description" content={{pageDescription}}>
-    {% endif %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" async>
     {% capture css %}
         {% include styles.css %}
     {% endcapture %}
-    <!-- feed it through our cssmin filter to minify -->
     <style>
     {{ css | cssmin | safe }}
     </style>
