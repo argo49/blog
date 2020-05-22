@@ -5,10 +5,12 @@
         <div id="top"></div>
         {% include logo.liquid %}
         <h1>{{ pageTitle }}</h1>
+        <p>
         <div>Published on <time datetime="{{page.date}}">{{page.date | date: "%Y-%m-%d"}}</time></div>
         {% if lastUpdated %}
             <div>Last updated on <time datetime="{{lastUpdated}}">{{lastUpdated}}</time></div>
         {% endif %}
+        </p>
         {{ content }}
         <a href="/">Back Home<a/> | <a href="#top">Back To Top<a/>
         {% include scripts.liquid %}
