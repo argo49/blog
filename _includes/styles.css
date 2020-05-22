@@ -7,37 +7,10 @@ h5 {
   font-weight: 600;
 }
 
-h1 {
-  margin-bottom: 0.1em;
-}
-
-pre {
-  border-top: 1px solid lightslategrey;
-  padding: 1em;
-  border-bottom: 1px solid lightslategrey;
-  overflow: scroll;
-  background: #eee;
-}
-
-code {
-  background: #eee;
-  padding: 0.25em;
-}
-
-body {
-  width: 30em;
-  margin: auto;
-  padding: 1em;
-}
-
-p {
-  text-align: justify;
-}
-
-.logo {
+h1.logo {
   text-align: center;
+  border-bottom: none;
   font-size: 3em;
-  margin-top: 0;
 }
 
 .logo a {

@@ -1,12 +1,14 @@
 <!doctype html>
 <html lang="en">
     {% include head.liquid %}
-    <body>
+    <body class="markdown-body">
         <div id="top"></div>
         {% include logo.liquid %}
-        <hr/>
         <h1>{{ pageTitle }}</h1>
-        <time datetime="{{date}}">{{date}}</time>
+        <div>Published on <time datetime="{{page.date}}">{{page.date | date: "%Y-%m-%d"}}</time></div>
+        {% if lastUpdated %}
+            <div>Last updated on <time datetime="{{lastUpdated}}">{{lastUpdated}}</time></div>
+        {% endif %}
         {{ content }}
         <a href="/">Back Home<a/> | <a href="#top">Back To Top<a/>
         {% include scripts.liquid %}

@@ -1,9 +1,12 @@
 ---
 pageTitle: Lorem Ipsum
 date: "2020-02-29"
+lastUpdated: "2020-05-22"
 ---
 
 ## Lorem ipsum dolor sit amet
+
+This is a page where I can test all of the element styles used on the blog.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi arcu elit, pharetra vitae dui at, sagittis tincidunt felis. Curabitur maximus efficitur arcu. Nullam vestibulum faucibus mi, ac faucibus lectus mollis ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque diam lacus, hendrerit vitae nisl at, pellentesque fermentum magna. Nulla vehicula malesuada rutrum. Quisque ultricies quis nisi a aliquet. Proin ut leo accumsan, pellentesque mi nec, auctor diam.
 
