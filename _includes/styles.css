@@ -1,9 +1,15 @@
+@font-face {
+  font-family: "Avant Sans Extra Bold";
+  src: url("/assets/fonts/AvantSans-ExtraBold.woff2") format("woff2"),
+    url("/assets/fonts/AvantSans-ExtraBold.woff") format("woff");
+}
+
 h1,
 h2,
 h3,
 h4,
 h5 {
-  font-family: "Arial Black", Helvetica, sans-serif;
+  font-family: "Avant Sans Extra Bold", Helvetica, sans-serif;
   font-weight: 600;
 }
 

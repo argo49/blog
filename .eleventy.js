@@ -36,5 +36,5 @@ module.exports = function (config) {
 
   config.addPassthroughCopy("favicon.ico");
   config.addPassthroughCopy("manifest.json");
-  config.addPassthroughCopy("images");
+  config.addPassthroughCopy("assets");
 };
