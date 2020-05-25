@@ -10,7 +10,6 @@ h3,
 h4,
 h5 {
   font-family: "Avant Sans Extra Bold", Helvetica, sans-serif;
-  font-weight: 600;
 }
 
 h1.logo {
@@ -39,5 +38,24 @@ h1.logo {
 @media (max-width: 767px) {
   .markdown-body {
     padding: 15px;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .markdown-body {
+    background-color: #111;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3,
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6 {
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+  }
+  .markdown-body pre {
+    background-color: rgba(255, 255, 255, 0.1);
   }
 }
