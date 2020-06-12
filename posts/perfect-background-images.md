@@ -45,11 +45,11 @@ then you can use it like this:
 
 // Adds the original image properly sized with no tint as the background image.
 .my-bg-element {
-  @include bg-cover("/static/images/montreal-evening.jpg");
+  @include bg-cover("/my/static/image.jpg");
 }
 
 // Adds the image properly sized with a dark tint as the background image.
 .my-darker-bg-element {
-  @include bg-cover("/static/images/montreal-evening.jpg", rgba(0, 0, 0, 0.7));
+  @include bg-cover("/my/static/image.jpg", rgba(0, 0, 0, 0.7));
 }
 ```
