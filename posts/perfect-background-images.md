@@ -31,7 +31,7 @@ background-blend-mode: multiply;
 and here's a mixin for it:
 
 ```scss
-@mixin bgCover($imageUrl, $overlayColor) {
+@mixin bgCover($imageUrl, $overlayColor: transparent) {
   background-image: url($imageUrl);
   background-color: $overlayColor;
   background-repeat: no-repeat;
