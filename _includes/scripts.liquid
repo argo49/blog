@@ -1,3 +1,9 @@
 <script>
 // TODO: Add a service worker
+document.querySelector('#back-to-top').onclick = (event) => {
+    event.preventDefault();
+    document.querySelector('#top').scrollIntoView({
+        behavior: 'smooth'
+    });
+}
 </script>

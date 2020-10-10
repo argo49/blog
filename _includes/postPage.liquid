@@ -14,7 +14,7 @@
         {{ content }}
         <a href="/">Back Home<a/>
         <span class="link-spacer">|</span>
-        <a href="#top">Back To Top<a/>
+        <a id="back-to-top" href="#top">Back To Top<a/>
         <span class="link-spacer">|</span>
         <a href="{{ "https://github.com/argo49/blog/blob/master/" | append: page.inputPath | remove_first: "./"}}">View on GitHub<a/>
         {% include scripts.liquid %}
