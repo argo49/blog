@@ -47,6 +47,9 @@ h1.logo {
     background-color: #111;
     color: rgba(255, 255, 255, 0.75);
   }
+  .markdown-body a {
+    color: skyblue;
+  }
   .markdown-body h1,
   .markdown-body h2,
   .markdown-body h3,
