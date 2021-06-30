@@ -8,12 +8,12 @@ pageDescription: A curated list of some useful resources, blogs, books, podcasts
 Some interesting resources for learning how to become a better engineering manager. It's not comprehensive, I'm sure I'm leaving things out. Also, 
 I don't necessarily agree with all of the management styles or opinions these resources have, but it's nice to get different sides of the similar issues.
 
-# Blogs / Publications
+## Blogs / Publications
 
 * [LeadDev](https://leaddev.com/)
 * [charity.wtf](https://charity.wtf/)
 
-# Books
+## Books
 
 You might have already heard of some of these, but I'll post them anyway. Trying to limit it to books I've actually read and think might be worth reading:
 * The Manager's Path by Camille Fournier
