@@ -12,6 +12,7 @@ I don't necessarily agree with all of the management styles or opinions these re
 
 * [LeadDev](https://leaddev.com/)
 * [charity.wtf](https://charity.wtf/)
+* [Increment](https://increment.com/) (occasionally)
 
 ## Books
 
