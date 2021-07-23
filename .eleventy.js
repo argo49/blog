@@ -1,5 +1,4 @@
 const CleanCSS = require("clean-css");
-const pluginPWA = require("eleventy-plugin-pwa");
 const fs = require("fs");
 
 module.exports = function (config) {
@@ -15,8 +14,6 @@ module.exports = function (config) {
   config.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
-
-  config.addPlugin(pluginPWA);
 
   config.setBrowserSyncConfig({
     callbacks: {
