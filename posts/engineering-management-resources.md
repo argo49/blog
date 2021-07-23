@@ -6,7 +6,7 @@ pageDescription: A curated list of some useful resources, blogs, books, podcasts
 ---
 
 Some interesting resources for learning how to become a better engineering manager. It's not comprehensive, I'm sure I'm leaving things out. Also, 
-I don't necessarily agree with all of the management styles or opinions these resources have, but it's nice to get different sides of the similar issues.
+I don't necessarily agree with all of the management styles or opinions these resources have, but it's nice to see different sides of the same issues.
 
 ## Blogs / Publications
 
