@@ -11,7 +11,7 @@ Here's a link to the [original recipe](https://cookieandkate.com/healthy-granola
 ## Ingredients
 * [4.00 cup] Rolled oats
 * [0.75 cup] Raw nuts, seeds and coconut flakes
-* [1.00 tsp] Salt
+* [0.50 tsp] Salt
 * [0.50 tsp] Ground cinnamon
 * [0.33 cup] Melted coconut oil
 * [0.33 cup] Maple syrup
