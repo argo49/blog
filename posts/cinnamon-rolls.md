@@ -60,9 +60,3 @@ Here's a link to the [original recipe](https://www.ambitiouskitchen.com/best-cin
 
 ### Frosting
 20. Blend cream cheese, butter, powdered sugar, vanilla extract until smooth
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
