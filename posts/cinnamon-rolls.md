@@ -43,7 +43,7 @@ Here's a link to the [original recipe](https://www.ambitiouskitchen.com/best-cin
 
 ### Cinnamon Filling
 9. Spread softened butter over dough (leave 0.25 inch margin on far side)
-10. fMix brown sugar and cinnamon in bowl
+10. Mix brown sugar and cinnamon in bowl
 11. Rub mixture into softened butter
 
 ### Roll
