@@ -1,6 +1,6 @@
 {
-  "short_name": "argv",
-  "name": "argv",
+  "short_name": "arg0",
+  "name": "arg0",
   "description": "A blog by Tyler Argo",
   "icons": [
     {

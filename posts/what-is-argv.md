@@ -1,7 +1,7 @@
 ---
 pageTitle: What is this place?
 date: "2020-03-03"
-lastUpdated: "2020-05-22"
+lastUpdated: "2020-10-27"
 pageDescription: A post about what I want this website to be.
 ---
 
@@ -11,6 +11,6 @@ I also think that websites should be fast and accessible and I don't want to spe
 
 I'll most likely be writing a post on how I've set up this blog website sometime in the future. Until then I'll just say that I'm using [eleventy](https://11ty.dev) as a static site generator, and vercel (zeit) to serve the content. Github is also a pretty good markdown editor, and it means I don't have to think too much about git and repo's on all my machines.
 
-Too many things that I've attempted to do have fallen to the side with little to show for. Of course I've learned a lot from doing these things, but that knowledge fades over time and I am the only person with any hope of benefitting from it. With argv, I'd like to share these endeavors with the world- or at least for my future self, to have something to point to when I wonder what I've been doing all this time.
+Too many things that I've attempted to do have fallen to the side with little to show for. Of course I've learned a lot from doing these things, but that knowledge fades over time and I am the only person with any hope of benefitting from it. With this blog, I'd like to share these endeavors with the world- or at least for my future self, to have something to point to when I wonder what I've been doing all this time.
 
 This won't be high quality stuff. It might not even be low quality stuff. But at least it will be stuff. Enjoy!
