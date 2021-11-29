@@ -5,5 +5,15 @@
         {% include logo.liquid %}
         {{ content }}
         {% include scripts.liquid %}
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-X15ZJLB0L0"></script>
+        <script> 
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-X15ZJLB0L0');
+        </script>
     </body>
 </html>
