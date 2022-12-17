@@ -13,10 +13,12 @@ Here's a link to the [James Hoffman video](https://youtu.be/1oB1oDrDkHM).
 
 ## Instructions
 
+### Setup
 * Pre-heat the v60 and filter with hot/boiling water
-  * If you place the v60 on a flat surface (bottom of sink) you can use less boiling water since it will slow the exit of the water
+    * If you place the v60 on a flat surface (bottom of sink) you can use less boiling water since it will slow the exit of the water
 * Make a small divet in the center of the grounds
 
+### The Pour
 * 0m00s: Pour 72g of water to bloom
 * 0m10s - 0m15s: Gently Swirl
 * 0m00s - 0m45s: Bloom
