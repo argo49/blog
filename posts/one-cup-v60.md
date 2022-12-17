@@ -1,7 +1,7 @@
 ---
 pageTitle: One Cup v60 Technique
 pageDescription: A recipe for delicious coffee stolen from James Hoffman.
-date: "2022-12-12"
+date: "2022-12-17"
 ---
 
 Here's a link to the [James Hoffman video](https://youtu.be/1oB1oDrDkHM).
