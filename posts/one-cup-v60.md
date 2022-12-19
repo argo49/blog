@@ -19,7 +19,7 @@ Here's a link to the [James Hoffman video](https://youtu.be/1oB1oDrDkHM).
 * Make a small divet in the center of the grounds
 
 ### The Pour
-* 0m00s: Pour 72g of water to bloom
+* 0m00s: Pour 72g of water to bloom (20% total weight)
 * 0m10s - 0m15s: Gently Swirl
 * 0m00s - 0m45s: Bloom
 * 0m45s - 1m00s: Pour up to 144g total (40% total weight)
@@ -32,3 +32,12 @@ Here's a link to the [James Hoffman video](https://youtu.be/1oB1oDrDkHM).
 * 2m00s - 2m05s: Gently swirl
 * 3m00s - Drawdown should end around this time
 
+### Cheat Sheet
+* 0m00s: Pour 72g to bloom (20% total weight)
+* 0m10s: Gently Swirl
+* 0m45s: Pour up to 144g total (40% total weight)
+* 1m10s: Pour up to 216g total (60% total weight)
+* 1m40s: Pour up to 288g total (80% total weight)
+* 1m50s: Pour up to 360g total (100% total weight)
+* 2m00s: Gently swirl
+* 3m00s: Drawdown should end around this time
