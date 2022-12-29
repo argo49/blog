@@ -24,7 +24,7 @@ Here's a link to the [original recipe](https://www.ambitiouskitchen.com/best-cin
 * [0.25 cup] butter, softened
 
 ### Icing
-* [4.00 oz] cream cheese, softened
+* [113.00 grams] cream cheese, softened
 * [3.00 tbps] butter, softened
 * [0.75 cup] powdered sugar
 * [0.50 tsp] vanilla extract
