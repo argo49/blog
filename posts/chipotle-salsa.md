@@ -1,7 +1,7 @@
 ---
 pageTitle: Chipotle Salsa
 pageDescription: A recipe for chipotle salsa.
-date: "2022-12-12"
+date: "2023-08-15"
 ---
 
 Here's a link to the [original recipe](https://burrataandbubbles.com/chipotle-roasted-tomato-salsa/#why-you-need-to-make-this-recipe).
