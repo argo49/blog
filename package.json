@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A blog.",
   "main": "index.js",
+  "engines": {
+    "node": ">=23.4.0"
+  },
   "scripts": {
     "build": "eleventy",
     "serve": "eleventy --serve"
@@ -10,9 +13,9 @@
   "author": "Tyler Argo",
   "license": "ISC",
   "dependencies": {
-    "clean-css": "^4.2.3"
+    "clean-css": "^5.3.3"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^3.1.2"
   }
 }

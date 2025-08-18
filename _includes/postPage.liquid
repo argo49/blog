@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en">
-    {% include head.liquid %}
+    {% include "head.liquid" %}
     <body class="markdown-body">
         <div id="top"></div>
-        {% include logo.liquid %}
+        {% include "logo.liquid" %}
         <h1>{{ pageTitle }}</h1>
         <p>
         <div>Published on <time datetime="{{page.date}}">{{page.date | date: "%Y-%m-%d"}}</time></div>
@@ -17,7 +17,7 @@
         <a id="back-to-top" href="#top">Back To Top</a>
         <span class="link-spacer">|</span>
         <a href="{{ "https://github.com/argo49/blog/blob/master/" | append: page.inputPath | remove_first: "./"}}">View on GitHub</a>
-        {% include scripts.liquid %}
-        {% include analytics.liquid %}
+        {% include "scripts.liquid" %}
+        {% include "analytics.liquid" %}
     </body>
 </html>
