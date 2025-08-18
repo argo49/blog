@@ -12,6 +12,10 @@ h5 {
   font-family: "Avant Sans Extra Bold", Helvetica, sans-serif;
 }
 
+.markdown-body a {
+  text-decoration: underline;
+}
+
 h1.logo {
   text-align: center;
   border-bottom: none;
